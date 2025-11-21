@@ -15,6 +15,7 @@ my_project/             <-- (1) 전체 프로젝트 폴더 (여기에 git을 심
     ├── __init__.py     <-- 패키지로 인식되게 하는 필수 파일 (비워두어도 됨)
 
     └── operations.py   <-- 실제 기능이 들어있는 코드 파일
-
+```
 
 ![화면 캡처 2025-11-21 162534](https://github.com/user-attachments/assets/aec00842-4136-44a7-88c9-ce53f967c772)
+
