@@ -7,3 +7,10 @@
 ```python
 import mypackage
 mypackage.introduce()
+
+my_project/             <-- (1) 전체 프로젝트 폴더 (여기에 git을 심습니다)
+├── README.md           <-- 프로젝트 설명 파일
+├── setup.py            <-- (선택사항) 패키지 설치 설정 파일
+└── mypackage/          <-- (2) 실제 패키지 폴더 (이름은 원하는대로 정하세요)
+    ├── __init__.py     <-- 패키지로 인식되게 하는 필수 파일 (비워두어도 됨)
+    └── operations.py   <-- 실제 기능이 들어있는 코드 파일
