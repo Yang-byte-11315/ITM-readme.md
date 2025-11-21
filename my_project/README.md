@@ -16,4 +16,5 @@ my_project/             <-- (1) 전체 프로젝트 폴더 (여기에 git을 심
 
     └── operations.py   <-- 실제 기능이 들어있는 코드 파일
 
-![화면 캡처 2025-11-21 162534](https://github.com/user-attachments/assets/cd41365d-7ec2-41b3-a315-647f47ad66b6)
+
+![화면 캡처 2025-11-21 162534](https://github.com/user-attachments/assets/aec00842-4136-44a7-88c9-ce53f967c772)
